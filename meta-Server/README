@@ -33,9 +33,9 @@ Table of Contents
 I. Adding the meta-marco layer to your build
 =================================================
 
-Run 'bitbake-layers add-layer meta-marco'
+Run 'bitbake-layers add-layer meta-client'
 
 II. Misc
 ========
 
---- replace with specific information about the meta-marco layer ---
+--- replace with specific information about the meta-client layer ---
